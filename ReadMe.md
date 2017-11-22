@@ -19,6 +19,11 @@
  Дополнительная часть: отражения, преломления, диффузная модель по Фонгу
  Планируется добавление локальной модели Кука-Торранса.
 
- geometry.h - вся геометрия, используемая в программе 
- scene.cpp - методы примитивов и некоторые функции
- ray_tracing.cpp - main + трассировка лучей
+        geometry.h - вся геометрия, используемая в программе 
+        scene.cpp - методы примитивов и некоторые функции
+        ray_tracing.cpp - main + трассировка лучей
+
+### Полезные ссылки
+[Scratchapixel](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/implementing-the-raytracing-algorithm])
+
+[Ray Tracing by Frolov](http://ray-tracing.ru/)
